@@ -4,6 +4,4 @@ This is the first file
 
 ## Ipsum Below
 
-Some more text
-
-...and more
+Some more text.
